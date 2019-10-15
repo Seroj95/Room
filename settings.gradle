@@ -1,0 +1,2 @@
+include ':app', ':Java', ':carsdb', ':myapplicationasdd'
+rootProject.name='My Application'

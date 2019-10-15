@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Applicationasdd</string>
+    <string name="label_day_of_week">LAbelOfDAy</string>
+    <string-array name="day_of_wek">
+        <item> erkushapti</item>
+        <item> erkekshabti</item>
+        <item> choreqshbti</item>
+        <item> hingshabti</item>
+        <item> urbat</item>
+        <item> shabat</item>
+        <item> Kiraki</item>
+    </string-array>
+</resources>
